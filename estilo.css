@@ -1,0 +1,40 @@
+* {
+  font-family: monospace;
+} 
+
+html {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:#EBDEF0;
+}
+
+body {
+  width: 300px;
+    
+  padding: 50px;
+  
+  border: 1px solid lightgrey;
+  box-shadow: 2px 2px 5px 0px black;
+  background: white;
+}
+
+
+h2 {
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+ul {
+  list-style: square;
+}
+
+p {
+  text-align:justify;
+}
+
+input{
+  width: 100%;
+  margin-top: 3px;
+  margin-bottom: 5px;
+}
